@@ -128,6 +128,15 @@ Rules are grouped by category to help you understand their purpose. Each rule ha
 | [require-super-in-lifecycle-hooks](./docs/rules/require-super-in-lifecycle-hooks.md) | require super to be called in lifecycle hooks | :white_check_mark: | :wrench: |
 | [use-ember-get-and-set](./docs/rules/use-ember-get-and-set.md) | enforce usage of `Ember.get` and `Ember.set` |  | :wrench: |
 
+### Ember Observer
+
+| Name    | Description | :white_check_mark: | :wrench: |
+|:--------|:------------|:---------------|:-----------|
+| [no-ember-components](./docs/rules/no-ember-components.md) | indicate the usage of Ember Components |  |  |
+| [no-glimmer-components](./docs/rules/no-glimmer-components.md) | indicates use of glimmer components |  |  |
+| [no-jquery-integration](./docs/rules/no-jquery-integration.md) | disallow any usage of jQuery integration |  |  |
+| [no-tracked](./docs/rules/no-tracked.md) | indicate the use of @tracked |  |  |
+
 ### Ember Octane
 
 | Name    | Description | :white_check_mark: | :wrench: |
